@@ -22,6 +22,7 @@ namespace WPF
     {
         public MainWindow()
         {
+            // ekz
             InitializeComponent();
         }
     }
