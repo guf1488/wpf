@@ -16,13 +16,13 @@ using System.Windows.Shapes;
 namespace WPF
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// 
     /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
-            // усл1
+            //разработать программу на с# WPF.создайте коллекцию обьектов класса Computer(Monitor, Processor,Memory).Сделайте привязку к dataGridView,но только двух полей
             InitializeComponent();
         }
     }
