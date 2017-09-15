@@ -22,7 +22,7 @@ namespace WPF
     {
         public MainWindow()
         {
-            // ekz
+            // усл
             InitializeComponent();
         }
     }
